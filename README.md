@@ -1,4 +1,4 @@
-<!--
+
 Hola, mi nombre es Augusto Corbalán, soy de Alta Gracia - Córdoba, Argentina.
 
 Soy Full Stack web Developer, cuento con 800 horas de programación realizadas en el bootcamp "Soy Henry" tanto en tareas y proyectos individuales como grupales. Estando capacitado para trabajar con las tecnologías de JavaScript, React.js, Redux.js, Node.js, PostgreSQL, Sequelize.js, HTML, CSS, entre otras. Tanto de forma individual como en equipo con la tecnología de GIT.
@@ -19,4 +19,4 @@ Buscando de esta forma poder lograr soluciones cada vez mejores y más eficiente
 Datos de contacto:
 email: corbalan.augusto.n@gmail.com
 Github: https://github.com/AugustoCorbalan
--->
+
