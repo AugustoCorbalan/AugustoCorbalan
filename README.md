@@ -18,5 +18,5 @@ Buscando de esta forma poder lograr soluciones cada vez mejores y más eficiente
 
 Datos de contacto:
 email: corbalan.augusto.n@gmail.com
-Github: https://github.com/AugustoCorbalan
+Linkedin: https://www.linkedin.com/in/augusto-corbalan-a6b857256/
 
